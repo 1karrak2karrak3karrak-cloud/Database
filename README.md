@@ -51,4 +51,5 @@ Each line contains:
 - Birth year (integer)
 
 Compilation and Execution 
+
 To compile and run the program: gcc database.c -o database
