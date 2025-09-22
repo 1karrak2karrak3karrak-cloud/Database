@@ -50,4 +50,5 @@ Each line contains:
 - First name (single word)
 - Birth year (integer)
 
-Compilation and Execution To compile and run the program: gcc database.c -o database
+Compilation and Execution 
+To compile and run the program: gcc database.c -o database
